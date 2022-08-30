@@ -22,7 +22,7 @@ Compile some projects for spark.
 # Awesome Side Projects
 | Projects | Status | Link
 | ------------- |------------- |------------- |
-| spark-iceberg | :x: | :link:
+| spark-iceberg | :heavy_check_mark: | [:link:](https://github.com/Ratarca/spark-iceberg)
 | terraform-iceberg | :x: | :link:
 | aws-cookbook | :x: | :link:
 | dbt-iceberg | :x: | :link:
